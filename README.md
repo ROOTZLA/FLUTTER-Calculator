@@ -33,7 +33,8 @@ The size of the buttons on the bottom screen automatically adapts to the size of
 
 ## Video
 
-[![Example](image)](video)
+[![Example](https://github.com/ROOTZLA/FLUTTER-Calculator/blob/main/assets/calc.png?raw=true)](https://github.com/ROOTZLA/FLUTTER-Calculator/assets/148280991/1baf9aed-00bf-4335-be5a-9b928a1696ca)
+
 
 ___
 [Up](#anchor)
